@@ -33,10 +33,7 @@ import cv2
 import numpy as np
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
 
 https://user-images.githubusercontent.com/53074799/159264021-e5841434-baa1-4c4b-a3c9-199715af2a51.mp4
